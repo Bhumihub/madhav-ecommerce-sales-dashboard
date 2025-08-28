@@ -3,8 +3,8 @@
 This repository contains a **Power BI dashboard** for analyzing Madhav Ecommerce sales data.
 
 ## 📁 Files
-- `dashboard.pbix` → Main Power BI file (open with Power BI Desktop).
-- `images/dashboard.png` → Preview of the dashboard.
+- `first_powerbi(1).pbix` → Main Power BI file (open with Power BI Desktop).
+- `Screenshot 2025-08-28 142949.png` → Preview of the dashboard.
 
 ## 🔑 Key Insights
 - **KPIs**: Total Amount, Profit, Quantity, AOV.
@@ -20,7 +20,7 @@ This repository contains a **Power BI dashboard** for analyzing Madhav Ecommerce
 3. Explore interactive charts and filters.
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](Screenshot%202025-08-28%20142949.png)
 
 ---
 👩‍💻 Created by [Bhumika Pande](https://github.com/Bhumihub)
